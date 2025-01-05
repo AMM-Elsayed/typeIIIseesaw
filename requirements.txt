@@ -1,0 +1,6 @@
+subprocess
+bs4
+pandas
+numpy==1.22.4
+matplotlib
+
